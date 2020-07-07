@@ -1,6 +1,6 @@
 # Dia da criação do IBGE! 
 
-Para comemorar o aniversário de criaçaõ do nosso querido **_Instituto Brasileiro de Geografia e Estatística_** (IBGE) 🎈, eu desenvolvi um script R sobre _como fazer um mapa animado com dados de '**população estimada**'_ fornecidos pela instituição 🧡
+Para comemorar o aniversário de criação do nosso querido **_Instituto Brasileiro de Geografia e Estatística_** (IBGE) 🎈, eu desenvolvi um script R sobre _como fazer um mapa animado com dados de '**população estimada**'_ fornecidos pela instituição 🧡
 <br />
 
 ![](https://s.calendarr.com/upload/60/79/dia-da-criacao-do-ibge.jpg).
